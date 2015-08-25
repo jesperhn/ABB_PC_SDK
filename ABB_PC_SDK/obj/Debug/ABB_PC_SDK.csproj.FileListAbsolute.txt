@@ -1,0 +1,12 @@
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\bin\Debug\ABB_PC_SDK.exe.config
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\obj\Debug\ABB_PC_SDK.csprojResolveAssemblyReference.cache
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\obj\Debug\ABB_PC_SDK.Properties.Resources.resources
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\obj\Debug\ABB_PC_SDK.csproj.GenerateResource.Cache
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\bin\Debug\ABB_PC_SDK.exe
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\bin\Debug\ABB_PC_SDK.pdb
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\bin\Debug\ABB.Robotics.Controllers.PC.dll
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\bin\Debug\RobotStudio.Services.RobApi.dll
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\bin\Debug\ABB.Robotics.Controllers.PC.xml
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\obj\Debug\ABB_PC_SDK.exe
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\obj\Debug\ABB_PC_SDK.pdb
+c:\files\visual studio 2013\Projects\ABB_PC_SDK\ABB_PC_SDK\obj\Debug\ABB_PC_SDK.Form1.resources
